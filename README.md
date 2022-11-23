@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josh845
 - 👀 I’m interested in Software Design
 - 🌱 I’m currently learning all things Computer Science!!!
-- 💞️ I’m looking to collaborate on Web Developmnent/Database Management
+- 💞️ I’m looking to collaborate on Web Development/Database Management
 - 📫 How to reach me ...
 
 <!---
